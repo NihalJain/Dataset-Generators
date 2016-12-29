@@ -1,0 +1,714 @@
+run:
+Enter Input file path : hor_12_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 10 ms
+Total candidates 0
+Total 4045 frequent ORed Itemsets found.
+Support Counting Time : 407ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 12
+Elapsed milliseconds (Preprocessing): 33
+Elapsed milliseconds ( ORed Itemsets): 441
+Elapsed milliseconds (Rules + ORed itemsets): 441
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 482
+  PID   RSS S TTY          TIME COMMAND
+ 3684 822748 S ?       00:08:31 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+20762 70304 S ?
+
+run:
+Enter Input file path : hor_12_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 9 ms
+Total candidates 0
+Total 4045 frequent ORed Itemsets found.
+Support Counting Time : 279ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 12
+Elapsed milliseconds (Preprocessing): 36
+Elapsed milliseconds ( ORed Itemsets): 310
+Elapsed milliseconds (Rules + ORed itemsets): 310
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 349
+  PID   RSS S TTY          TIME COMMAND
+ 3684 823244 S ?       00:08:35 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+20814 58964 S ? 
+
+run:
+Enter Input file path : hor_12_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 9 ms
+Total candidates 0
+Total 4045 frequent ORed Itemsets found.
+Support Counting Time : 330ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 12
+Elapsed milliseconds (Preprocessing): 31
+Elapsed milliseconds ( ORed Itemsets): 360
+Elapsed milliseconds (Rules + ORed itemsets): 360
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 398
+  PID   RSS S TTY          TIME COMMAND
+ 3684 823288 S ?       00:08:38 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+20840 58400 S ?  
+
+run:
+Enter Input file path : hor_12_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 11 ms
+Total candidates 0
+Total 4045 frequent ORed Itemsets found.
+Support Counting Time : 320ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 12
+Elapsed milliseconds (Preprocessing): 40
+Elapsed milliseconds ( ORed Itemsets): 354
+Elapsed milliseconds (Rules + ORed itemsets): 354
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 401
+  PID   RSS S TTY          TIME COMMAND
+ 3684 823548 S ?       00:08:41 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+20884 59116 S ?
+
+run:
+Enter Input file path : hor_12_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_12_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 9 ms
+Total candidates 0
+Total 4045 frequent ORed Itemsets found.
+Support Counting Time : 318ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 12
+Elapsed milliseconds (Preprocessing): 33
+Elapsed milliseconds ( ORed Itemsets): 346
+Elapsed milliseconds (Rules + ORed itemsets): 346
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 384
+  PID   RSS S TTY          TIME COMMAND
+ 3684 824100 S ?       00:08:43 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+20907 61064 S ?  
+
+
+
+
+
+
+run:
+Enter Input file path : hor_14_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 13 ms
+Total candidates 0
+Total 16277 frequent ORed Itemsets found.
+Support Counting Time : 552ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 14
+Elapsed milliseconds (Preprocessing): 32
+Elapsed milliseconds ( ORed Itemsets): 587
+Elapsed milliseconds (Rules + ORed itemsets): 587
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 629
+  PID   RSS S TTY          TIME COMMAND
+ 3684 824096 S ?       00:08:46 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+20930 80212 S ?
+
+run:
+Enter Input file path : hor_14_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 8 ms
+Total candidates 0
+Total 16277 frequent ORed Itemsets found.
+Support Counting Time : 643ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 14
+Elapsed milliseconds (Preprocessing): 31
+Elapsed milliseconds ( ORed Itemsets): 672
+Elapsed milliseconds (Rules + ORed itemsets): 672
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 706
+  PID   RSS S TTY          TIME COMMAND
+ 3684 824088 S ?       00:08:48 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+20998 79276 S ? 
+
+run:
+Enter Input file path : hor_14_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 14 ms
+Total candidates 0
+Total 16277 frequent ORed Itemsets found.
+Support Counting Time : 702ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 14
+Elapsed milliseconds (Preprocessing): 42
+Elapsed milliseconds ( ORed Itemsets): 743
+Elapsed milliseconds (Rules + ORed itemsets): 743
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 791
+  PID   RSS S TTY          TIME COMMAND
+ 3684 824504 S ?       00:08:50 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21021 84784 S ?  
+
+run:
+Enter Input file path : hor_14_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 9 ms
+Total candidates 0
+Total 16277 frequent ORed Itemsets found.
+Support Counting Time : 519ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 14
+Elapsed milliseconds (Preprocessing): 39
+Elapsed milliseconds ( ORed Itemsets): 551
+Elapsed milliseconds (Rules + ORed itemsets): 551
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 599
+  PID   RSS S TTY          TIME COMMAND
+ 3684 824492 S ?       00:08:52 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21044 83228 S ?  
+
+run:
+Enter Input file path : hor_14_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_14_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 13 ms
+Total candidates 0
+Total 16277 frequent ORed Itemsets found.
+Support Counting Time : 507ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 14
+Elapsed milliseconds (Preprocessing): 35
+Elapsed milliseconds ( ORed Itemsets): 544
+Elapsed milliseconds (Rules + ORed itemsets): 544
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 589
+  PID   RSS S TTY          TIME COMMAND
+ 3684 824712 S ?       00:08:55 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21088 77316 S ? 
+
+
+
+
+
+run:
+Enter Input file path : hor_16_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 13 ms
+Total candidates 0
+Total 65398 frequent ORed Itemsets found.
+Support Counting Time : 1685ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 16
+Elapsed milliseconds (Preprocessing): 38
+Elapsed milliseconds ( ORed Itemsets): 1722
+Elapsed milliseconds (Rules + ORed itemsets): 1722
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 1766
+  PID   RSS S TTY          TIME COMMAND
+ 3684 824904 S ?       00:08:58 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21112 184968 S ? 
+
+run:
+Enter Input file path : hor_16_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 16 ms
+Total candidates 0
+Total 65398 frequent ORed Itemsets found.
+Support Counting Time : 1838ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 16
+Elapsed milliseconds (Preprocessing): 46
+Elapsed milliseconds ( ORed Itemsets): 1881
+Elapsed milliseconds (Rules + ORed itemsets): 1881
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 1932
+  PID   RSS S TTY          TIME COMMAND
+ 3684 825312 S ?       00:09:00 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21135 185964 S ?  
+
+run:
+Enter Input file path : hor_16_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 14 ms
+Total candidates 0
+Total 65398 frequent ORed Itemsets found.
+Support Counting Time : 1788ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 16
+Elapsed milliseconds (Preprocessing): 35
+Elapsed milliseconds ( ORed Itemsets): 1828
+Elapsed milliseconds (Rules + ORed itemsets): 1828
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 1870
+  PID   RSS S TTY          TIME COMMAND
+ 3684 827496 S ?       00:09:02 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21159 188844 S ? 
+
+run:
+Enter Input file path : hor_16_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 11 ms
+Total candidates 0
+Total 65398 frequent ORed Itemsets found.
+Support Counting Time : 1863ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 16
+Elapsed milliseconds (Preprocessing): 30
+Elapsed milliseconds ( ORed Itemsets): 1898
+Elapsed milliseconds (Rules + ORed itemsets): 1898
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 1932
+  PID   RSS S TTY          TIME COMMAND
+ 3684 828192 S ?       00:09:04 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21184 200596 S ?
+
+run:
+Enter Input file path : hor_16_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_16_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 8 ms
+Total candidates 0
+Total 65398 frequent ORed Itemsets found.
+Support Counting Time : 1747ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 16
+Elapsed milliseconds (Preprocessing): 43
+Elapsed milliseconds ( ORed Itemsets): 1777
+Elapsed milliseconds (Rules + ORed itemsets): 1777
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 1825
+  PID   RSS S TTY          TIME COMMAND
+ 3684 832380 S ?       00:09:06 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21207 184248 S ? 
+
+
+
+
+
+
+run:
+Enter Input file path : hor_18_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_18_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_18_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 9 ms
+Total candidates 0
+Total 261971 frequent ORed Itemsets found.
+Support Counting Time : 7074ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 18
+Elapsed milliseconds (Preprocessing): 37
+Elapsed milliseconds ( ORed Itemsets): 7109
+Elapsed milliseconds (Rules + ORed itemsets): 7109
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 7150
+  PID   RSS S TTY          TIME COMMAND
+ 3684 832516 S ?       00:09:08 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21230 418820 S ?
+
+run:
+Enter Input file path : hor_18_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_18_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_18_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 11 ms
+Total candidates 0
+Total 261971 frequent ORed Itemsets found.
+Support Counting Time : 7140ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 18
+Elapsed milliseconds (Preprocessing): 49
+Elapsed milliseconds ( ORed Itemsets): 7180
+Elapsed milliseconds (Rules + ORed itemsets): 7180
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 7234
+  PID   RSS S TTY          TIME COMMAND
+ 3684 832516 S ?       00:09:10 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21257 416152 S ? 
+
+run:
+Enter Input file path : hor_18_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_18_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_18_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 9 ms
+Total candidates 0
+Total 261971 frequent ORed Itemsets found.
+Support Counting Time : 7325ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 18
+Elapsed milliseconds (Preprocessing): 37
+Elapsed milliseconds ( ORed Itemsets): 7359
+Elapsed milliseconds (Rules + ORed itemsets): 7359
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 7399
+  PID   RSS S TTY          TIME COMMAND
+ 3684 832500 S ?       00:09:13 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21280 416544 S ?  
+
+run:
+Enter Input file path : hor_18_1000.txt
+Enter Support Threshold : 0.5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_18_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_18_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 17 ms
+Total candidates 0
+Total 261971 frequent ORed Itemsets found.
+Support Counting Time : 7114ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 18
+Elapsed milliseconds (Preprocessing): 41
+Elapsed milliseconds ( ORed Itemsets): 7162
+Elapsed milliseconds (Rules + ORed itemsets): 7162
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 7210
+  PID   RSS S TTY          TIME COMMAND
+ 3684 832840 S ?       00:09:15 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21303 414892 S ?  
+
+
+
+
+
+
+run:
+Enter Input file path : hor_20_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 18 ms
+Total candidates 0
+Total 1048362 frequent ORed Itemsets found.
+Support Counting Time : 35946ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 20
+Elapsed milliseconds (Preprocessing): 45
+Elapsed milliseconds ( ORed Itemsets): 35994
+Elapsed milliseconds (Rules + ORed itemsets): 35994
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 36050
+  PID   RSS S TTY          TIME COMMAND
+ 3684 832940 S ?       00:09:18 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21326 558504 S ? 
+
+run:
+Enter Input file path : hor_20_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 10 ms
+Total candidates 0
+Total 1048362 frequent ORed Itemsets found.
+Support Counting Time : 33269ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 20
+Elapsed milliseconds (Preprocessing): 33
+Elapsed milliseconds ( ORed Itemsets): 33305
+Elapsed milliseconds (Rules + ORed itemsets): 33305
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 33344
+  PID   RSS S TTY          TIME COMMAND
+ 3684 833776 S ?       00:09:20 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21351 575556 S ? 
+
+run:
+Enter Input file path : hor_20_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 14 ms
+Total candidates 0
+Total 1048362 frequent ORed Itemsets found.
+Support Counting Time : 34148ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 20
+Elapsed milliseconds (Preprocessing): 44
+Elapsed milliseconds ( ORed Itemsets): 34190
+Elapsed milliseconds (Rules + ORed itemsets): 34190
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 34240
+  PID   RSS S TTY          TIME COMMAND
+ 3684 833784 S ?       00:09:23 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21376 557616 S ? 
+
+run:
+Enter Input file path : hor_20_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 20 ms
+Total candidates 0
+Total 1048362 frequent ORed Itemsets found.
+Support Counting Time : 32539ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 20
+Elapsed milliseconds (Preprocessing): 41
+Elapsed milliseconds ( ORed Itemsets): 32591
+Elapsed milliseconds (Rules + ORed itemsets): 32591
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 32641
+  PID   RSS S TTY          TIME COMMAND
+ 3684 834100 S ?       00:09:25 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21403 592392 S ?  
+
+run:
+Enter Input file path : hor_20_1000.txt
+Enter Support Threshold : .5
+Enter Confidence Threshold : 0
+Mapped Input file: /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+
+-----------------------------------------------------------------------
+                        mfp-Improved BFS Based ALGORITHM
+=======================================================================
+                     MINING WITH BELOW PARAMETERS 
+=======================================================================
+DataSet : /home/nj/NetBeansProjects/mfp-improvedBFSBased/build/classes/fp/test/hor_20_1000_int.txt
+Support Threshold : 0.5
+Confidence Threshold : 0.0
+-----------------------------------------------------------------------
+Item Frequency counting time : 11 ms
+Total candidates 0
+Total 1048362 frequent ORed Itemsets found.
+Support Counting Time : 32886ms
+----------------------------------------------------------------------
+DATABASE SIZE 1000 Total items : 20
+Elapsed milliseconds (Preprocessing): 33
+Elapsed milliseconds ( ORed Itemsets): 32925
+Elapsed milliseconds (Rules + ORed itemsets): 32925
+Elapsed milliseconds (preprocessing + Rules + ORed itemsets): 32963
+  PID   RSS S TTY          TIME COMMAND
+ 3684 834740 S ?       00:09:27 /usr/lib/jvm/java-8-oracle/bin/java -Djdk.home=/usr/lib/jvm/java-8-oracle -classpath /home/nj/netbeans-8.1/platform/lib/boot.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-modules.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-lookup.jar:/home/nj/netbeans-8.1/platform/lib/org-openide-util-ui.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/boot_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ja.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_ru.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/nj/netbeans-8.1/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar -Dnetbeans.default_userdir_root=/home/nj/.netbeans -Dnetbeans.running.environment=gnome -Dnetbeans.dirs=/home/nj/netbeans-8.1/nb:/home/nj/netbeans-8.1/ergonomics:/home/nj/netbeans-8.1/ide:/home/nj/netbeans-8.1/extide:/home/nj/netbeans-8.1/java:/home/nj/netbeans-8.1/apisupport:/home/nj/netbeans-8.1/webcommon:/home/nj/netbeans-8.1/websvccommon:/home/nj/netbeans-8.1/enterprise:/home/nj/netbeans-8.1/mobility:/home/nj/netbeans-8.1/profiler:/home/nj/netbeans-8.1/python:/home/nj/netbeans-8.1/php:/home/nj/netbeans-8.1/identity:/home/nj/netbeans-8.1/harness:/home/nj/netbeans-8.1/cnd:/home/nj/netbeans-8.1/cndext:/home/nj/netbeans-8.1/dlight:/home/nj/netbeans-8.1/groovy:/home/nj/netbeans-8.1/extra:/home/nj/netbeans-8.1/javacard:/home/nj/netbeans-8.1/javafx: -Dnetbeans.home=/home/nj/netbeans-8.1/platform -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xmx762m -client -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nj/.netbeans/8.1/var/log/heapdump.hprof org.netbeans.Main --cachedir /home/nj/.cache/netbeans/8.1 --userdir /home/nj/.netbeans/8.1 --branding nb
+21427 585588 S ? 

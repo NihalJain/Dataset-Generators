@@ -1,0 +1,43 @@
+nj@HadoopMaster:~/dataset$ python2 generatedataNJModifiedLargeFeatueset.py 
+Enter Working Directory: dataset
+Enter Dataset Name: test
+Number of Items: 10
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 1000 
+nj@HadoopMaster:~/dataset$ python2 generatedataNJModifiedLargeFeatueset.py 
+Enter Working Directory: dataset
+Enter Dataset Name: test_12_1000
+Number of Items: 12
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 1000
+nj@HadoopMaster:~/dataset$ python2 generatedataNJModifiedLargeFeatueset.py 
+Enter Working Directory: dataset
+Enter Dataset Name: test_14_1000
+Number of Items: 14
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 1000
+nj@HadoopMaster:~/dataset$ python2 generatedataNJModifiedLargeFeatueset.py 
+Enter Working Directory: dataset
+Enter Dataset Name: test_16_1000 
+Number of Items: 16
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 1000
+nj@HadoopMaster:~/dataset$ python2 generatedataNJModifiedLargeFeatueset.py 
+Enter Working Directory: dataset
+Enter Dataset Name: test_18_1000
+Number of Items: 18
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 1000
+nj@HadoopMaster:~/dataset$ python2 generatedataNJModifiedLargeFeatueset.py 
+Enter Working Directory: dataset
+Enter Dataset Name: test_20_1000
+Number of Items: 20
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 1000
+nj@HadoopMaster:~/dataset$ python2 generatedataNJModifiedLargeFeatueset.py 
+Enter Working Directory: dataset   
+Enter Dataset Name: test_22_1000
+Number of Items: 22
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 1000
+nj@HadoopMaster:~/dataset$ 

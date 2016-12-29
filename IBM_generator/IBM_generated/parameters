@@ -1,0 +1,46 @@
+t = 10
+
+./gen lit -ntrans 0.1 -tlen 10 -nitems 0.05 -npats 1000 -patlen 4 -fname T100_I50 -ascii
+./gen lit -ntrans 0.2 -tlen 10 -nitems 0.05 -npats 1000 -patlen 4 -fname T200_I50 -ascii
+./gen lit -ntrans 0.3 -tlen 10 -nitems 0.05 -npats 1000 -patlen 4 -fname T300_I50 -ascii
+./gen lit -ntrans 0.4 -tlen 10 -nitems 0.05 -npats 1000 -patlen 4 -fname T400_I50 -ascii
+./gen lit -ntrans 0.5 -tlen 10 -nitems 0.05 -npats 1000 -patlen 4 -fname T500_I50 -ascii
+
+./gen lit -ntrans 0.3 -tlen 10 -nitems 0.04 -npats 1000 -patlen 4 -fname T300_I40 -ascii
+./gen lit -ntrans 0.3 -tlen 10 -nitems 0.045 -npats 1000 -patlen 4 -fname T300_I45 -ascii
+./gen lit -ntrans 0.3 -tlen 10 -nitems 0.05 -npats 1000 -patlen 4 -fname T300_I50 -ascii
+./gen lit -ntrans 0.3 -tlen 10 -nitems 0.055 -npats 1000 -patlen 4 -fname T300_I55 -ascii
+./gen lit -ntrans 0.3 -tlen 10 -nitems 0.06 -npats 1000 -patlen 4 -fname T300_I60 -ascii
+
+=============================================================================================
+
+t = 20
+
+./gen lit -ntrans 0.1 -tlen 20 -nitems 0.05 -npats 1000 -patlen 4 -fname T100_I50 -ascii
+./gen lit -ntrans 0.2 -tlen 20 -nitems 0.05 -npats 1000 -patlen 4 -fname T200_I50 -ascii
+./gen lit -ntrans 0.3 -tlen 20 -nitems 0.05 -npats 1000 -patlen 4 -fname T300_I50 -ascii
+./gen lit -ntrans 0.4 -tlen 20 -nitems 0.05 -npats 1000 -patlen 4 -fname T400_I50 -ascii
+./gen lit -ntrans 0.5 -tlen 20 -nitems 0.05 -npats 1000 -patlen 4 -fname T500_I50 -ascii
+
+./gen lit -ntrans 0.3 -tlen 20 -nitems 0.04 -npats 1000 -patlen 4 -fname T300_I40 -ascii
+./gen lit -ntrans 0.3 -tlen 20 -nitems 0.045 -npats 1000 -patlen 4 -fname T300_I45 -ascii
+./gen lit -ntrans 0.3 -tlen 20 -nitems 0.05 -npats 1000 -patlen 4 -fname T300_I50 -ascii
+./gen lit -ntrans 0.3 -tlen 20 -nitems 0.055 -npats 1000 -patlen 4 -fname T300_I55 -ascii
+./gen lit -ntrans 0.3 -tlen 20 -nitems 0.06 -npats 1000 -patlen 4 -fname T300_I60 -ascii
+
+=============================================================================================
+t = 30
+
+./gen lit -ntrans 0.1 -tlen 30 -nitems 0.05 -npats 1000 -patlen 4 -fname T100_I50 -ascii
+./gen lit -ntrans 0.2 -tlen 30 -nitems 0.05 -npats 1000 -patlen 4 -fname T200_I50 -ascii
+./gen lit -ntrans 0.3 -tlen 30 -nitems 0.05 -npats 1000 -patlen 4 -fname T300_I50 -ascii
+./gen lit -ntrans 0.4 -tlen 30 -nitems 0.05 -npats 1000 -patlen 4 -fname T400_I50 -ascii
+./gen lit -ntrans 0.5 -tlen 30 -nitems 0.05 -npats 1000 -patlen 4 -fname T500_I50 -ascii
+
+./gen lit -ntrans 0.3 -tlen 30 -nitems 0.04 -npats 1000 -patlen 4 -fname T300_I40 -ascii
+./gen lit -ntrans 0.3 -tlen 30 -nitems 0.045 -npats 1000 -patlen 4 -fname T300_I45 -ascii
+./gen lit -ntrans 0.3 -tlen 30 -nitems 0.05 -npats 1000 -patlen 4 -fname T300_I50 -ascii
+./gen lit -ntrans 0.3 -tlen 30 -nitems 0.055 -npats 1000 -patlen 4 -fname T300_I55 -ascii
+./gen lit -ntrans 0.3 -tlen 30 -nitems 0.06 -npats 1000 -patlen 4 -fname T300_I60 -ascii
+
+=============================================================================================

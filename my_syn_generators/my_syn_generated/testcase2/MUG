@@ -1,0 +1,1200 @@
+
+
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_10_10000.txt -aU -n
+
+./mug -ffor_hor_10_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 10
+tranNum: 10000
+binary vertical file: for_hor_10_10000.mung exists, done with reading.
+
+Processing(10): 1
+Processing(10): 2
+Processing(10): 3
+Processing(10): 4
+Processing(10): 5
+Processing(10): 6
+Processing(10): 7
+Processing(10): 8
+Processing(10): 9
+Processing(10): 10
+
+
+MUG Classes:
+
+#Tset: 1013
+#Iset: 1022
+
+TIME: 283.455
+0.283455
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_10_10000.txt -aU -n
+
+./mug -ffor_hor_10_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 10
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_10_10000.txt.
+
+Processing(10): 1
+Processing(10): 2
+Processing(10): 3
+Processing(10): 4
+Processing(10): 5
+Processing(10): 6
+Processing(10): 7
+Processing(10): 8
+Processing(10): 9
+Processing(10): 10
+
+
+MUG Classes:
+
+#Tset: 1013
+#Iset: 1022
+
+TIME: 293.499
+0.293499
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_10_10000.txt -aU -n
+
+./mug -ffor_hor_10_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 10
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_10_10000.txt.
+
+Processing(10): 1
+Processing(10): 2
+Processing(10): 3
+Processing(10): 4
+Processing(10): 5
+Processing(10): 6
+Processing(10): 7
+Processing(10): 8
+Processing(10): 9
+Processing(10): 10
+
+
+MUG Classes:
+
+#Tset: 1013
+#Iset: 1022
+
+TIME: 311.815
+0.311815
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_10_10000.txt -aU -n
+
+./mug -ffor_hor_10_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 10
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_10_10000.txt.
+
+Processing(10): 1
+Processing(10): 2
+Processing(10): 3
+Processing(10): 4
+Processing(10): 5
+Processing(10): 6
+Processing(10): 7
+Processing(10): 8
+Processing(10): 9
+Processing(10): 10
+
+
+MUG Classes:
+
+#Tset: 1013
+#Iset: 1022
+
+TIME: 318.407
+0.318407
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_10_10000.txt -aU -n
+
+./mug -ffor_hor_10_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 10
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_10_10000.txt.
+
+Processing(10): 1
+Processing(10): 2
+Processing(10): 3
+Processing(10): 4
+Processing(10): 5
+Processing(10): 6
+Processing(10): 7
+Processing(10): 8
+Processing(10): 9
+Processing(10): 10
+
+
+MUG Classes:
+
+#Tset: 1013
+#Iset: 1022
+
+TIME: 287.968
+0.287968
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ 
+
+
+
+
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_12_10000.txt -aU -n
+
+./mug -ffor_hor_12_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 12
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_12_10000.txt.
+
+Processing(12): 1
+Processing(12): 2
+Processing(12): 3
+Processing(12): 4
+Processing(12): 5
+Processing(12): 6
+Processing(12): 7
+Processing(12): 8
+Processing(12): 9
+Processing(12): 10
+Processing(12): 11
+Processing(12): 12
+
+
+MUG Classes:
+
+#Tset: 4083
+#Iset: 4094
+
+TIME: 673.007
+0.673007
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_12_10000.txt -aU -n
+
+./mug -ffor_hor_12_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 12
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_12_10000.txt.
+
+Processing(12): 1
+Processing(12): 2
+Processing(12): 3
+Processing(12): 4
+Processing(12): 5
+Processing(12): 6
+Processing(12): 7
+Processing(12): 8
+Processing(12): 9
+Processing(12): 10
+Processing(12): 11
+Processing(12): 12
+
+
+MUG Classes:
+
+#Tset: 4083
+#Iset: 4094
+
+TIME: 689.871
+0.689871
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_12_10000.txt -aU -n
+
+./mug -ffor_hor_12_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 12
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_12_10000.txt.
+
+Processing(12): 1
+Processing(12): 2
+Processing(12): 3
+Processing(12): 4
+Processing(12): 5
+Processing(12): 6
+Processing(12): 7
+Processing(12): 8
+Processing(12): 9
+Processing(12): 10
+Processing(12): 11
+Processing(12): 12
+
+
+MUG Classes:
+
+#Tset: 4083
+#Iset: 4094
+
+TIME: 696.02
+0.69602
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_12_10000.txt -aU -n
+
+./mug -ffor_hor_12_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 12
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_12_10000.txt.
+
+Processing(12): 1
+Processing(12): 2
+Processing(12): 3
+Processing(12): 4
+Processing(12): 5
+Processing(12): 6
+Processing(12): 7
+Processing(12): 8
+Processing(12): 9
+Processing(12): 10
+Processing(12): 11
+Processing(12): 12
+
+
+MUG Classes:
+
+#Tset: 4083
+#Iset: 4094
+
+TIME: 689.876
+0.689876
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_12_10000.txt -aU -n
+
+./mug -ffor_hor_12_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 12
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_12_10000.txt.
+
+Processing(12): 1
+Processing(12): 2
+Processing(12): 3
+Processing(12): 4
+Processing(12): 5
+Processing(12): 6
+Processing(12): 7
+Processing(12): 8
+Processing(12): 9
+Processing(12): 10
+Processing(12): 11
+Processing(12): 12
+
+
+MUG Classes:
+
+#Tset: 4083
+#Iset: 4094
+
+TIME: 672.76
+0.67276
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ 
+
+
+
+
+
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_14_10000.txt -aU -n
+
+./mug -ffor_hor_14_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 14
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_14_10000.txt.
+
+Processing(14): 1
+Processing(14): 2
+Processing(14): 3
+Processing(14): 4
+Processing(14): 5
+Processing(14): 6
+Processing(14): 7
+Processing(14): 8
+Processing(14): 9
+Processing(14): 10
+Processing(14): 11
+Processing(14): 12
+Processing(14): 13
+Processing(14): 14
+
+
+MUG Classes:
+
+#Tset: 16369
+#Iset: 16382
+
+TIME: 1950.26
+1.95026
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_14_10000.txt -aU -n
+
+./mug -ffor_hor_14_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 14
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_14_10000.txt.
+
+Processing(14): 1
+Processing(14): 2
+Processing(14): 3
+Processing(14): 4
+Processing(14): 5
+Processing(14): 6
+Processing(14): 7
+Processing(14): 8
+Processing(14): 9
+Processing(14): 10
+Processing(14): 11
+Processing(14): 12
+Processing(14): 13
+Processing(14): 14
+
+
+MUG Classes:
+
+#Tset: 16369
+#Iset: 16382
+
+TIME: 1961.9
+1.9619
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_14_10000.txt -aU -n
+
+./mug -ffor_hor_14_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 14
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_14_10000.txt.
+
+Processing(14): 1
+Processing(14): 2
+Processing(14): 3
+Processing(14): 4
+Processing(14): 5
+Processing(14): 6
+Processing(14): 7
+Processing(14): 8
+Processing(14): 9
+Processing(14): 10
+Processing(14): 11
+Processing(14): 12
+Processing(14): 13
+Processing(14): 14
+
+
+MUG Classes:
+
+#Tset: 16369
+#Iset: 16382
+
+TIME: 1974.87
+1.97487
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_14_10000.txt -aU -n
+
+./mug -ffor_hor_14_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 14
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_14_10000.txt.
+
+Processing(14): 1
+Processing(14): 2
+Processing(14): 3
+Processing(14): 4
+Processing(14): 5
+Processing(14): 6
+Processing(14): 7
+Processing(14): 8
+Processing(14): 9
+Processing(14): 10
+Processing(14): 11
+Processing(14): 12
+Processing(14): 13
+Processing(14): 14
+
+
+MUG Classes:
+
+#Tset: 16369
+#Iset: 16382
+
+TIME: 1948.05
+1.94805
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_14_10000.txt -aU -n
+
+./mug -ffor_hor_14_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 14
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_14_10000.txt.
+
+Processing(14): 1
+Processing(14): 2
+Processing(14): 3
+Processing(14): 4
+Processing(14): 5
+Processing(14): 6
+Processing(14): 7
+Processing(14): 8
+Processing(14): 9
+Processing(14): 10
+Processing(14): 11
+Processing(14): 12
+Processing(14): 13
+Processing(14): 14
+
+
+MUG Classes:
+
+#Tset: 16369
+#Iset: 16382
+
+TIME: 1973.28
+1.97328
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ 
+
+
+
+
+
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_16_10000.txt -aU -n
+
+./mug -ffor_hor_16_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 16
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_16_10000.txt.
+
+Processing(16): 1
+Processing(16): 2
+Processing(16): 3
+Processing(16): 4
+Processing(16): 5
+Processing(16): 6
+Processing(16): 7
+Processing(16): 8
+Processing(16): 9
+Processing(16): 10
+Processing(16): 11
+Processing(16): 12
+Processing(16): 13
+Processing(16): 14
+Processing(16): 15
+Processing(16): 16
+
+
+MUG Classes:
+
+#Tset: 65519
+#Iset: 65534
+
+TIME: 5828.77
+5.82877
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_16_10000.txt -aU -n
+
+./mug -ffor_hor_16_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 16
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_16_10000.txt.
+
+Processing(16): 1
+Processing(16): 2
+Processing(16): 3
+Processing(16): 4
+Processing(16): 5
+Processing(16): 6
+Processing(16): 7
+Processing(16): 8
+Processing(16): 9
+Processing(16): 10
+Processing(16): 11
+Processing(16): 12
+Processing(16): 13
+Processing(16): 14
+Processing(16): 15
+Processing(16): 16
+
+
+MUG Classes:
+
+#Tset: 65519
+#Iset: 65534
+
+TIME: 5790.72
+5.79072
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_16_10000.txt -aU -n
+
+./mug -ffor_hor_16_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 16
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_16_10000.txt.
+
+Processing(16): 1
+Processing(16): 2
+Processing(16): 3
+Processing(16): 4
+Processing(16): 5
+Processing(16): 6
+Processing(16): 7
+Processing(16): 8
+Processing(16): 9
+Processing(16): 10
+Processing(16): 11
+Processing(16): 12
+Processing(16): 13
+Processing(16): 14
+Processing(16): 15
+Processing(16): 16
+
+
+MUG Classes:
+
+#Tset: 65519
+#Iset: 65534
+
+TIME: 5767.56
+5.76756
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_16_10000.txt -aU -n
+
+./mug -ffor_hor_16_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 16
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_16_10000.txt.
+
+Processing(16): 1
+Processing(16): 2
+Processing(16): 3
+Processing(16): 4
+Processing(16): 5
+Processing(16): 6
+Processing(16): 7
+Processing(16): 8
+Processing(16): 9
+Processing(16): 10
+Processing(16): 11
+Processing(16): 12
+Processing(16): 13
+Processing(16): 14
+Processing(16): 15
+Processing(16): 16
+
+
+MUG Classes:
+
+#Tset: 65519
+#Iset: 65534
+
+TIME: 5801.73
+5.80173
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_16_10000.txt -aU -n
+
+./mug -ffor_hor_16_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 16
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_16_10000.txt.
+
+Processing(16): 1
+Processing(16): 2
+Processing(16): 3
+Processing(16): 4
+Processing(16): 5
+Processing(16): 6
+Processing(16): 7
+Processing(16): 8
+Processing(16): 9
+Processing(16): 10
+Processing(16): 11
+Processing(16): 12
+Processing(16): 13
+Processing(16): 14
+Processing(16): 15
+Processing(16): 16
+
+
+MUG Classes:
+
+#Tset: 65519
+#Iset: 65534
+
+TIME: 5813.44
+5.81344
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ 
+
+
+
+
+
+
+
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_18_10000.txt -aU -n
+
+./mug -ffor_hor_18_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 18
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_18_10000.txt.
+
+Processing(18): 1
+Processing(18): 2
+Processing(18): 3
+Processing(18): 4
+Processing(18): 5
+Processing(18): 6
+Processing(18): 7
+Processing(18): 8
+Processing(18): 9
+Processing(18): 10
+Processing(18): 11
+Processing(18): 12
+Processing(18): 13
+Processing(18): 14
+Processing(18): 15
+Processing(18): 16
+Processing(18): 17
+Processing(18): 18
+
+
+MUG Classes:
+
+#Tset: 262125
+#Iset: 262142
+
+TIME: 20370.5
+20.3705
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_18_10000.txt -aU -n
+
+./mug -ffor_hor_18_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 18
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_18_10000.txt.
+
+Processing(18): 1
+Processing(18): 2
+Processing(18): 3
+Processing(18): 4
+Processing(18): 5
+Processing(18): 6
+Processing(18): 7
+Processing(18): 8
+Processing(18): 9
+Processing(18): 10
+Processing(18): 11
+Processing(18): 12
+Processing(18): 13
+Processing(18): 14
+Processing(18): 15
+Processing(18): 16
+Processing(18): 17
+Processing(18): 18
+
+
+MUG Classes:
+
+#Tset: 262125
+#Iset: 262142
+
+TIME: 20388.8
+20.3888
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_18_10000.txt -aU -n
+
+./mug -ffor_hor_18_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 18
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_18_10000.txt.
+
+Processing(18): 1
+Processing(18): 2
+Processing(18): 3
+Processing(18): 4
+Processing(18): 5
+Processing(18): 6
+Processing(18): 7
+Processing(18): 8
+Processing(18): 9
+Processing(18): 10
+Processing(18): 11
+Processing(18): 12
+Processing(18): 13
+Processing(18): 14
+Processing(18): 15
+Processing(18): 16
+Processing(18): 17
+Processing(18): 18
+
+
+MUG Classes:
+
+#Tset: 262125
+#Iset: 262142
+
+TIME: 20330.9
+20.3309
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_18_10000.txt -aU -n
+
+./mug -ffor_hor_18_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 18
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_18_10000.txt.
+
+Processing(18): 1
+Processing(18): 2
+Processing(18): 3
+Processing(18): 4
+Processing(18): 5
+Processing(18): 6
+Processing(18): 7
+Processing(18): 8
+Processing(18): 9
+Processing(18): 10
+Processing(18): 11
+Processing(18): 12
+Processing(18): 13
+Processing(18): 14
+Processing(18): 15
+Processing(18): 16
+Processing(18): 17
+Processing(18): 18
+
+
+MUG Classes:
+
+#Tset: 262125
+#Iset: 262142
+
+TIME: 20407.2
+20.4072
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_18_10000.txt -aU -n
+
+./mug -ffor_hor_18_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 18
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_18_10000.txt.
+
+Processing(18): 1
+Processing(18): 2
+Processing(18): 3
+Processing(18): 4
+Processing(18): 5
+Processing(18): 6
+Processing(18): 7
+Processing(18): 8
+Processing(18): 9
+Processing(18): 10
+Processing(18): 11
+Processing(18): 12
+Processing(18): 13
+Processing(18): 14
+Processing(18): 15
+Processing(18): 16
+Processing(18): 17
+Processing(18): 18
+
+
+MUG Classes:
+
+#Tset: 262125
+#Iset: 262142
+
+TIME: 20333.3
+20.3333
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ 
+
+
+
+
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_20_10000.txt -aU -n
+
+./mug -ffor_hor_20_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 20
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_20_10000.txt.
+
+Processing(20): 1
+Processing(20): 2
+Processing(20): 3
+Processing(20): 4
+Processing(20): 5
+Processing(20): 6
+Processing(20): 7
+Processing(20): 8
+Processing(20): 9
+Processing(20): 10
+Processing(20): 11
+Processing(20): 12
+Processing(20): 13
+Processing(20): 14
+Processing(20): 15
+Processing(20): 16
+Processing(20): 17
+Processing(20): 18
+Processing(20): 19
+Processing(20): 20
+
+
+MUG Classes:
+
+#Tset: 1048555
+#Iset: 1048574
+
+TIME: 131740
+131.74
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_20_10000.txt -aU -n
+
+./mug -ffor_hor_20_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 20
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_20_10000.txt.
+
+Processing(20): 1
+Processing(20): 2
+Processing(20): 3
+Processing(20): 4
+Processing(20): 5
+Processing(20): 6
+Processing(20): 7
+Processing(20): 8
+Processing(20): 9
+Processing(20): 10
+Processing(20): 11
+Processing(20): 12
+Processing(20): 13
+Processing(20): 14
+Processing(20): 15
+Processing(20): 16
+Processing(20): 17
+Processing(20): 18
+Processing(20): 19
+Processing(20): 20
+
+
+MUG Classes:
+
+#Tset: 1048555
+#Iset: 1048574
+
+TIME: 127065
+127.065
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_20_10000.txt -aU -n
+
+./mug -ffor_hor_20_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 20
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_20_10000.txt.
+
+Processing(20): 1
+Processing(20): 2
+Processing(20): 3
+Processing(20): 4
+Processing(20): 5
+Processing(20): 6
+Processing(20): 7
+Processing(20): 8
+Processing(20): 9
+Processing(20): 10
+Processing(20): 11
+Processing(20): 12
+Processing(20): 13
+Processing(20): 14
+Processing(20): 15
+Processing(20): 16
+Processing(20): 17
+Processing(20): 18
+Processing(20): 19
+Processing(20): 20
+
+
+MUG Classes:
+
+#Tset: 1048555
+#Iset: 1048574
+
+TIME: 127412
+127.412
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_20_10000.txt -aU -n
+
+./mug -ffor_hor_20_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 20
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_20_10000.txt.
+
+Processing(20): 1
+Processing(20): 2
+Processing(20): 3
+Processing(20): 4
+Processing(20): 5
+Processing(20): 6
+Processing(20): 7
+Processing(20): 8
+Processing(20): 9
+Processing(20): 10
+Processing(20): 11
+Processing(20): 12
+Processing(20): 13
+Processing(20): 14
+Processing(20): 15
+Processing(20): 16
+Processing(20): 17
+Processing(20): 18
+Processing(20): 19
+Processing(20): 20
+
+
+MUG Classes:
+
+#Tset: 1048555
+#Iset: 1048574
+
+TIME: 127074
+127.074
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ ./mug -ffor_hor_20_10000.txt -aU -n
+
+./mug -ffor_hor_20_10000.txt -aU -n 
+
+min_sup:  1
+max_sup:  10000000
+max_item: 100000
+
+itemNum: 20
+tranNum: 10000
+
+whole set size: 10000
+
+done with reading and re-formating file: for_hor_20_10000.txt.
+
+Processing(20): 1
+Processing(20): 2
+Processing(20): 3
+Processing(20): 4
+Processing(20): 5
+Processing(20): 6
+Processing(20): 7
+Processing(20): 8
+Processing(20): 9
+Processing(20): 10
+Processing(20): 11
+Processing(20): 12
+Processing(20): 13
+Processing(20): 14
+Processing(20): 15
+Processing(20): 16
+Processing(20): 17
+Processing(20): 18
+Processing(20): 19
+Processing(20): 20
+
+
+MUG Classes:
+
+#Tset: 1048555
+#Iset: 1048574
+
+TIME: 127967
+127.967
+nj@HadoopMaster:~/Dropbox/MTP/ResearchCode/blosom/mug$ 

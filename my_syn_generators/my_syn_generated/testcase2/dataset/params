@@ -1,0 +1,41 @@
+/usr/bin/python3.4 /home/nj/PycharmProjects/Dataset-Generators/generatedataNJModifiedLargeFeatueset.py
+Enter Working Directory: testcase2
+Enter Dataset Name: test_10_10000
+Number of Items: 10
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 10000
+
+/usr/bin/python3.4 /home/nj/PycharmProjects/Dataset-Generators/generatedataNJModifiedLargeFeatueset.py
+Enter Working Directory: testcase2
+Enter Dataset Name: test_12_10000
+Number of Items: 12
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 10000
+
+/usr/bin/python3.4 /home/nj/PycharmProjects/Dataset-Generators/generatedataNJModifiedLargeFeatueset.py
+Enter Working Directory: testcase2
+Enter Dataset Name: test_14_10000
+Number of Items: 14
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 10000
+
+/usr/bin/python3.4 /home/nj/PycharmProjects/Dataset-Generators/generatedataNJModifiedLargeFeatueset.py
+Enter Working Directory: testcase2
+Enter Dataset Name: test_16_10000
+Number of Items: 16
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 10000
+
+/usr/bin/python3.4 /home/nj/PycharmProjects/Dataset-Generators/generatedataNJModifiedLargeFeatueset.py
+Enter Working Directory: testcase2
+Enter Dataset Name: test_18_10000
+Number of Items: 18
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 10000
+
+/usr/bin/python3.4 /home/nj/PycharmProjects/Dataset-Generators/generatedataNJModifiedLargeFeatueset.py
+Enter Working Directory: testcase2
+Enter Dataset Name: test_20_10000
+Number of Items: 20
+Number of Mutual Exclusive Pairs: 0
+Number of Transactions: 10000

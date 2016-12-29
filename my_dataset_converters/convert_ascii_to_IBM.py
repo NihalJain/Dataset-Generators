@@ -1,5 +1,7 @@
-import re
+#!/usr/bin/env python
 
+import sys
+import re
 
 def countItems(line):
     digit = 0
@@ -11,12 +13,17 @@ def countItems(line):
         modifiedLine += str(int(numbers[i]) + 1) + " "
     return str(digit) + " " + modifiedLine.strip(" ") + "\n"
 
-iFiles = ["hor_10_10000.txt", "hor_12_10000.txt", "hor_14_10000.txt", "hor_16_10000.txt", "hor_18_10000.txt",
-          "hor_20_10000.txt"]
+
+# Get the total number of args passed to the demo.py
+total = len(sys.argv)
+ 
+# Get the arguments list 
+iFiles = sys.argv[1:]
+print(iFiles)
 
 for iFname in iFiles:
     #iFname = input()
-    oFname = "for_"+iFname
+    oFname = "ascii_"+iFname
     target = open(oFname, 'w')
 
     with open(iFname, "r") as ins:
