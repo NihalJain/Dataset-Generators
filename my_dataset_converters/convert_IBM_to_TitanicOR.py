@@ -72,7 +72,7 @@ def main():
     	print >>sys.stderr, sys.exc_info()
     	sys.exit(0)
        
-       
+    print("DONE: IBM_to_titanicOR generation")
        
 if __name__ == '__main__':
    main()

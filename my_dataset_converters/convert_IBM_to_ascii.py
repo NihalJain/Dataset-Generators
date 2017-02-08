@@ -28,3 +28,5 @@ for iFname in iFiles:
     with open(iFname, "r") as ins:
         for line in ins:
             target.write(getModifiedTransaction(line))
+
+print("DONE: IBM_to_ascii generation")
