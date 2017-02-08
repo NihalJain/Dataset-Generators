@@ -44,3 +44,8 @@ t = 30
 ./gen lit -ntrans 0.3 -tlen 30 -nitems 0.06 -npats 1000 -patlen 4 -fname T300_I60 -ascii
 
 =============================================================================================
+
+BITSET
+
+./gen lit -ntrans 1 -tlen 30 -nitems 0.06 -fname T1000_I60 -ascii
+./gen lit -ntrans 10 -tlen 10 -nitems 0.06 -fname T10000_I60_T1  -ascii
