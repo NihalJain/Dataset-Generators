@@ -10,7 +10,8 @@ def countItems(line):
     numbers = result = re.findall(r'[0-9]+', line)
     for i in range(len(numbers)):
         digit += 1
-        modifiedLine += str(int(numbers[i]) + 1) + " "
+        #modifiedLine += str(int(numbers[i]) + 1) + " "
+        modifiedLine += str(int(numbers[i])) + " "
     return str(digit) + " " + modifiedLine.strip(" ") + "\n"
 
 
@@ -23,7 +24,7 @@ print(iFiles)
 
 for iFname in iFiles:
     #iFname = input()
-    oFname = "ascii_"+iFname
+    oFname = "IBM_"+iFname
     target = open(oFname, 'w')
 
     with open(iFname, "r") as ins:
